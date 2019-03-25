@@ -1,7 +1,7 @@
 package app;
 
-class NewSort{
+class NewSort {
     public static void main(String[] args) {
-        
+
     }
 }
